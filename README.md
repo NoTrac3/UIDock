@@ -1,4 +1,5 @@
-# UIDOCK 
+# UIDOCK - The first real post-2020 Python application runtime environment
+
 **VERSION 4.0**
 ## TECHNICAL OVERVIEW
 
